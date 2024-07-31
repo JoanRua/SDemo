@@ -1,0 +1,300 @@
+Customer ID,Age,Gender,Marital Status,Education Level,Geographic Information,Occupation,Income Level,Behavioral Data,Purchase History,Interactions with Customer Service,Insurance Products Owned,Coverage Amount,Premium Amount,Policy Type,Customer Preferences,Preferred Communication Channel,Preferred Contact Time,Preferred Language,Segmentation Group
+84966,23,Female,Married,Associate Degree,Mizoram,Entrepreneur,70541,policy5,04-10-2018,Phone,policy2,366603,2749,Group,Email,In-Person Meeting,Afternoon,English,Segment5
+95568,26,Male,Widowed,Doctorate,Goa,Manager,54168,policy5,11-06-2018,Chat,policy1,780236,1966,Group,Mail,In-Person Meeting,Morning,French,Segment5
+10544,29,Female,Single,Associate Degree,Rajasthan,Entrepreneur,73899,policy5,06-05-2021,Email,policy3,773926,4413,Group,Email,Mail,Evening,German,Segment3
+77033,20,Male,Divorced,Bachelor's Degree,Sikkim,Entrepreneur,63381,policy5,09-02-2018,Chat,policy2,787815,4342,Family,Text,In-Person Meeting,Anytime,French,Segment3
+88160,25,Female,Separated,Bachelor's Degree,West Bengal,Manager,38794,policy1,09-10-2018,Chat,policy4,366506,1276,Family,Email,Text,Weekends,English,Segment2
+60937,41,Female,Separated,Master's Degree,Uttar Pradesh,Nurse,87188,policy5,9/19/2020,Chat,policy1,570757,1106,Individual,Text,Text,Afternoon,English,Segment4
+37676,55,Male,Single,Bachelor's Degree,Rajasthan,Manager,94891,policy3,07-04-2021,Chat,policy2,604069,3661,Group,In-Person Meeting,Text,Weekends,Mandarin,Segment5
+54100,35,Male,Married,Master's Degree,Himachal Pradesh,Artist,61003,policy1,11-01-2021,Phone,policy3,418997,1148,Business,Email,Phone,Morning,English,Segment5
+30476,43,Female,Single,Doctorate,Manipur,Salesperson,116249,policy1,9/20/2020,Mobile App,policy4,319423,2612,Business,In-Person Meeting,Text,Weekends,Mandarin,Segment2
+39071,32,Female,Single,Master's Degree,Gujarat,Artist,49083,policy3,4/24/2020,Phone,policy1,701577,4595,Group,Phone,Email,Weekends,English,Segment2
+38477,69,Male,Widowed,Master's Degree,Andaman and Nicobar Islands,Artist,62099,policy2,3/20/2022,In-Person,policy1,898873,2935,Business,In-Person Meeting,Text,Weekends,French,Segment3
+38329,47,Female,Married,Associate Degree,Uttar Pradesh,Lawyer,110698,policy4,05-10-2021,Chat,policy5,777280,4517,Business,In-Person Meeting,Text,Afternoon,German,Segment2
+6580,31,Female,Single,Associate Degree,Tripura,Teacher,90301,policy5,10/28/2018,Mobile App,policy1,299600,2861,Group,In-Person Meeting,Mail,Evening,French,Segment1
+67128,65,Female,Widowed,High School Diploma,Himachal Pradesh,Entrepreneur,24648,policy3,12/28/2018,Phone,policy3,276109,3971,Individual,In-Person Meeting,In-Person Meeting,Evening,English,Segment1
+34814,64,Male,Single,High School Diploma,Nagaland,Doctor,105009,policy3,09-05-2020,Phone,policy1,399139,2760,Individual,In-Person Meeting,Email,Evening,German,Segment3
+86048,53,Male,Single,Bachelor's Degree,Manipur,Engineer,29783,policy1,08-06-2021,Chat,policy2,807659,2334,Group,In-Person Meeting,Email,Afternoon,Spanish,Segment5
+24881,69,Female,Married,Bachelor's Degree,Karnataka,Artist,114236,policy3,11/16/2018,Mobile App,policy5,667081,4634,Group,Mail,Mail,Weekends,Spanish,Segment1
+24076,48,Female,Divorced,Bachelor's Degree,Andaman and Nicobar Islands,Teacher,107359,policy2,10/15/2023,Email,policy1,963585,2802,Business,Text,In-Person Meeting,Evening,Mandarin,Segment2
+38654,53,Male,Divorced,Associate Degree,Odisha,Manager,49224,policy5,10/26/2020,Chat,policy3,869812,4342,Group,Mail,Mail,Evening,Mandarin,Segment1
+47840,62,Male,Divorced,Associate Degree,Tripura,Entrepreneur,117264,policy4,07-11-2019,Email,policy1,777902,1843,Group,Text,Mail,Weekends,English,Segment4
+88939,62,Male,Divorced,Bachelor's Degree,Maharashtra,Lawyer,73889,policy4,8/28/2018,In-Person,policy4,202342,4476,Business,Email,Email,Evening,Mandarin,Segment1
+76694,43,Male,Single,Associate Degree,Telangana,Entrepreneur,51844,policy2,10/20/2021,In-Person,policy5,739884,1167,Individual,Email,Email,Evening,Spanish,Segment3
+50165,58,Male,Married,Bachelor's Degree,Gujarat,Lawyer,103753,policy1,11/17/2023,Chat,policy1,993093,4395,Business,Phone,Email,Weekends,Mandarin,Segment2
+44730,56,Female,Separated,High School Diploma,Delhi,Doctor,117504,policy1,11-01-2023,Chat,policy2,183174,1650,Group,Email,Mail,Weekends,Mandarin,Segment3
+9015,68,Male,Married,Bachelor's Degree,Nagaland,Lawyer,27364,policy3,12/25/2022,Chat,policy2,854840,996,Group,Email,Mail,Evening,German,Segment5
+62346,64,Female,Single,Doctorate,Delhi,Entrepreneur,107930,policy3,12/14/2021,Mobile App,policy2,281436,4137,Individual,Email,Mail,Morning,Spanish,Segment5
+64156,43,Male,Single,Master's Degree,Manipur,Nurse,89640,policy1,07-01-2022,Chat,policy2,739695,2112,Individual,Email,Phone,Evening,German,Segment3
+86289,70,Male,Widowed,Bachelor's Degree,Sikkim,Teacher,134035,policy3,3/22/2018,Chat,policy5,557438,3651,Family,In-Person Meeting,Email,Weekends,German,Segment5
+88530,63,Male,Single,Doctorate,Gujarat,Doctor,117967,policy1,7/26/2023,Chat,policy4,204430,1821,Business,Phone,Text,Weekends,Mandarin,Segment5
+9099,63,Female,Divorced,High School Diploma,West Bengal,Entrepreneur,47896,policy1,02-02-2022,Email,policy5,272732,1170,Family,Text,Mail,Morning,German,Segment2
+63711,45,Female,Widowed,Bachelor's Degree,Tripura,Artist,24313,policy2,1/17/2022,Email,policy1,147014,4750,Group,Email,Phone,Weekends,Spanish,Segment4
+82780,51,Female,Single,Doctorate,Goa,Engineer,107642,policy1,12-08-2022,In-Person,policy1,263967,4482,Family,Phone,Text,Morning,German,Segment2
+63407,52,Male,Divorced,Master's Degree,Tripura,Entrepreneur,53299,policy3,10/28/2019,In-Person,policy1,894822,2755,Individual,Email,Phone,Morning,English,Segment2
+52061,56,Male,Married,Associate Degree,Chandigarh,Doctor,121335,policy3,04-06-2018,Email,policy4,140842,1368,Individual,Phone,Email,Morning,Mandarin,Segment2
+11966,27,Male,Married,Associate Degree,Jharkhand,Salesperson,36781,policy5,8/19/2023,Email,policy5,86986,3712,Group,Text,Mail,Weekends,English,Segment4
+16809,69,Female,Divorced,Associate Degree,Arunachal Pradesh,Artist,105191,policy3,3/14/2023,Email,policy5,953822,4543,Business,In-Person Meeting,Mail,Anytime,Mandarin,Segment5
+70594,25,Female,Married,Bachelor's Degree,Mizoram,Teacher,98964,policy4,4/15/2021,Phone,policy2,416625,1114,Business,Mail,In-Person Meeting,Evening,German,Segment5
+32721,56,Female,Single,Master's Degree,Odisha,Salesperson,90036,policy1,11-08-2020,Mobile App,policy3,394000,4358,Business,Text,Mail,Afternoon,Spanish,Segment5
+8513,33,Male,Divorced,Associate Degree,Tamil Nadu,Teacher,118108,policy3,01-06-2022,Mobile App,policy5,173302,1759,Family,Text,In-Person Meeting,Anytime,French,Segment5
+76143,38,Female,Widowed,High School Diploma,Mizoram,Lawyer,73907,policy2,3/23/2019,In-Person,policy3,272019,4176,Family,Email,In-Person Meeting,Anytime,French,Segment2
+4733,25,Female,Divorced,Bachelor's Degree,Himachal Pradesh,Doctor,66966,policy2,1/22/2020,Phone,policy3,709925,4518,Family,Email,Email,Weekends,French,Segment1
+41370,40,Female,Divorced,Associate Degree,Gujarat,Artist,73501,policy5,1/27/2019,Phone,policy2,881692,1673,Family,Email,In-Person Meeting,Anytime,Spanish,Segment3
+76973,70,Female,Single,Master's Degree,Dadra and Nagar Haveli,Artist,64875,policy5,07-09-2020,Chat,policy5,765164,1746,Family,Phone,Email,Morning,Spanish,Segment5
+35026,54,Female,Separated,Associate Degree,Dadra and Nagar Haveli,Salesperson,145535,policy2,6/25/2018,Chat,policy5,159257,4327,Individual,Email,In-Person Meeting,Weekends,German,Segment3
+86002,26,Male,Separated,Doctorate,Tripura,Artist,144888,policy3,11/20/2020,Email,policy2,301509,3391,Group,Mail,Text,Evening,German,Segment4
+3173,56,Male,Married,Associate Degree,Nagaland,Lawyer,93631,policy3,6/25/2022,Chat,policy1,141739,4576,Individual,Mail,In-Person Meeting,Weekends,German,Segment4
+31548,51,Male,Married,Associate Degree,Himachal Pradesh,Nurse,46211,policy3,03-08-2019,Chat,policy2,862512,1831,Family,Mail,Phone,Weekends,French,Segment3
+37925,54,Male,Separated,Doctorate,Lakshadweep,Engineer,72860,policy5,10-08-2021,Mobile App,policy1,268755,1023,Family,Text,Mail,Anytime,English,Segment3
+66962,24,Male,Single,Doctorate,Arunachal Pradesh,Nurse,123454,policy2,8/21/2023,Mobile App,policy5,291168,642,Group,Phone,In-Person Meeting,Weekends,English,Segment4
+97147,26,Male,Separated,Master's Degree,Bihar,Lawyer,116983,policy2,06-07-2021,Mobile App,policy5,672130,2281,Group,Text,Mail,Anytime,Spanish,Segment2
+61190,43,Female,Separated,Associate Degree,Himachal Pradesh,Teacher,146348,policy5,1/27/2018,Phone,policy1,381066,4728,Family,Mail,Mail,Morning,Mandarin,Segment2
+34601,54,Male,Married,Master's Degree,Daman and Diu,Doctor,66068,policy3,06-04-2019,In-Person,policy1,506799,3258,Family,Phone,Mail,Weekends,Mandarin,Segment1
+93395,48,Male,Single,High School Diploma,Manipur,Salesperson,63683,policy2,3/24/2020,Chat,policy2,811300,2211,Family,Mail,In-Person Meeting,Evening,Mandarin,Segment1
+8965,65,Male,Divorced,Associate Degree,Assam,Salesperson,41328,policy4,02-01-2022,Chat,policy1,412935,3169,Family,Mail,Text,Morning,English,Segment1
+86159,36,Male,Widowed,Associate Degree,Punjab,Lawyer,70835,policy4,11-07-2022,Chat,policy2,520891,4360,Business,Text,In-Person Meeting,Evening,Spanish,Segment4
+10037,42,Male,Single,Master's Degree,Tripura,Teacher,45929,policy3,2/15/2019,Chat,policy4,764160,1705,Group,Text,Phone,Anytime,German,Segment1
+89689,32,Male,Divorced,Associate Degree,Haryana,Lawyer,35126,policy4,8/28/2019,Phone,policy2,303805,3442,Group,Text,Text,Weekends,Mandarin,Segment3
+64170,30,Female,Married,Associate Degree,Lakshadweep,Engineer,148655,policy1,9/24/2022,In-Person,policy4,72197,4515,Business,Text,In-Person Meeting,Morning,French,Segment1
+64942,43,Female,Divorced,Master's Degree,Chhattisgarh,Doctor,92642,policy3,06-01-2021,Chat,policy2,319027,1302,Individual,Email,Mail,Anytime,French,Segment3
+77788,27,Male,Separated,Bachelor's Degree,Karnataka,Doctor,40098,policy3,2/24/2019,In-Person,policy1,959874,2440,Group,In-Person Meeting,Mail,Morning,German,Segment3
+75750,42,Female,Separated,Master's Degree,Jharkhand,Nurse,65337,policy3,01-11-2020,In-Person,policy5,860404,3701,Family,In-Person Meeting,Phone,Afternoon,French,Segment2
+71321,70,Male,Separated,High School Diploma,Puducherry,Engineer,28356,policy3,09-07-2020,Mobile App,policy4,474860,3224,Group,Text,Text,Evening,German,Segment4
+25732,62,Female,Widowed,Bachelor's Degree,Bihar,Manager,104907,policy3,5/22/2023,Chat,policy3,536474,1727,Group,Phone,Phone,Morning,German,Segment3
+37178,68,Male,Separated,Master's Degree,Tripura,Nurse,138557,policy4,02-05-2019,Email,policy2,76379,4042,Group,In-Person Meeting,Phone,Morning,English,Segment1
+47251,32,Male,Divorced,Bachelor's Degree,Mizoram,Engineer,125748,policy3,12/25/2019,Mobile App,policy3,195071,3452,Business,Mail,Mail,Weekends,Mandarin,Segment2
+35701,45,Male,Divorced,Doctorate,Uttarakhand,Nurse,99954,policy2,06-08-2022,Chat,policy4,870289,5000,Group,Mail,Phone,Weekends,German,Segment4
+63619,42,Female,Divorced,High School Diploma,Bihar,Engineer,71646,policy3,10/22/2020,Phone,policy1,229680,4251,Individual,Email,In-Person Meeting,Afternoon,Spanish,Segment4
+33539,69,Female,Married,Bachelor's Degree,Andaman and Nicobar Islands,Entrepreneur,121869,policy4,06-04-2018,Mobile App,policy1,837024,3062,Individual,Phone,Email,Weekends,Spanish,Segment3
+46818,27,Male,Single,High School Diploma,Tripura,Doctor,101551,policy2,01-11-2018,Phone,policy2,105332,3660,Group,Mail,Phone,Anytime,French,Segment5
+27897,53,Female,Widowed,Master's Degree,Daman and Diu,Doctor,94222,policy5,6/22/2023,Phone,policy1,392077,3774,Business,Phone,Mail,Afternoon,German,Segment1
+61690,62,Female,Single,High School Diploma,Lakshadweep,Salesperson,34851,policy2,09-10-2023,In-Person,policy2,430449,1804,Business,Mail,Email,Anytime,English,Segment2
+45479,69,Male,Separated,Master's Degree,West Bengal,Artist,61700,policy2,01-10-2018,Mobile App,policy1,141511,4478,Family,Mail,Phone,Anytime,English,Segment5
+13229,53,Male,Married,Master's Degree,Sikkim,Doctor,76843,policy3,2/23/2021,In-Person,policy2,708894,2312,Group,Email,In-Person Meeting,Weekends,Mandarin,Segment1
+59127,23,Female,Widowed,Associate Degree,Daman and Diu,Engineer,143411,policy1,1/14/2020,Phone,policy5,756389,2945,Business,In-Person Meeting,Phone,Anytime,Mandarin,Segment2
+8775,40,Female,Married,Doctorate,Daman and Diu,Engineer,63964,policy5,01-05-2018,In-Person,policy1,111225,1635,Family,Mail,Mail,Weekends,Spanish,Segment1
+86426,34,Female,Married,High School Diploma,Karnataka,Entrepreneur,83653,policy1,05-04-2021,Chat,policy3,381438,2574,Group,Email,Email,Morning,Mandarin,Segment3
+77714,67,Male,Divorced,Associate Degree,Odisha,Lawyer,66619,policy2,6/27/2019,Chat,policy2,182076,4648,Individual,Mail,Text,Evening,English,Segment5
+17075,62,Male,Widowed,High School Diploma,Gujarat,Salesperson,77078,policy3,6/28/2022,Chat,policy1,411474,4560,Family,Mail,Phone,Anytime,Spanish,Segment2
+46209,40,Female,Married,High School Diploma,Lakshadweep,Teacher,118942,policy3,12-12-2019,Phone,policy3,417647,4389,Business,Mail,In-Person Meeting,Weekends,Mandarin,Segment4
+59115,52,Female,Separated,High School Diploma,Andhra Pradesh,Nurse,39956,policy2,1/24/2022,Email,policy1,825768,3179,Individual,Email,Email,Weekends,English,Segment5
+8967,34,Female,Divorced,Bachelor's Degree,Mizoram,Engineer,99408,policy2,4/17/2022,Chat,policy2,664021,1752,Business,Email,In-Person Meeting,Morning,German,Segment2
+65220,44,Female,Married,High School Diploma,Chhattisgarh,Doctor,116476,policy1,01-10-2023,Mobile App,policy2,758402,3154,Group,In-Person Meeting,In-Person Meeting,Morning,English,Segment3
+34756,44,Female,Married,Associate Degree,Maharashtra,Artist,32884,policy2,06-07-2018,Phone,policy5,257434,3500,Individual,In-Person Meeting,Email,Weekends,English,Segment1
+8147,20,Female,Married,Associate Degree,Rajasthan,Entrepreneur,135104,policy5,1/27/2018,Chat,policy2,811752,1119,Business,Text,Email,Anytime,German,Segment5
+74505,56,Male,Widowed,Associate Degree,Delhi,Teacher,47121,policy3,07-05-2018,Mobile App,policy1,771359,619,Group,Email,In-Person Meeting,Weekends,French,Segment5
+11822,64,Male,Married,Associate Degree,Arunachal Pradesh,Doctor,67420,policy5,12/14/2023,Chat,policy1,761152,4493,Group,Text,Mail,Weekends,German,Segment1
+52985,64,Male,Separated,Doctorate,Andaman and Nicobar Islands,Engineer,64700,policy5,12/15/2023,Chat,policy4,547195,4601,Group,Text,Text,Afternoon,Mandarin,Segment3
+75218,30,Male,Single,Doctorate,Kerala,Manager,38437,policy3,10/22/2019,Phone,policy5,588549,2732,Business,Text,Text,Evening,French,Segment1
+32118,65,Male,Divorced,Doctorate,Uttarakhand,Artist,69140,policy2,07-07-2021,Mobile App,policy1,111311,2635,Individual,Email,In-Person Meeting,Evening,English,Segment5
+37839,40,Male,Widowed,Bachelor's Degree,Odisha,Teacher,39132,policy2,8/24/2020,In-Person,policy1,754520,797,Group,In-Person Meeting,Text,Weekends,Mandarin,Segment4
+88675,24,Female,Married,High School Diploma,Delhi,Artist,54523,policy5,03-12-2018,Chat,policy3,846398,4742,Business,Email,Phone,Evening,Spanish,Segment2
+86928,34,Male,Married,Master's Degree,Madhya Pradesh,Manager,77405,policy3,12/19/2019,Chat,policy2,654092,1186,Group,In-Person Meeting,Phone,Evening,German,Segment1
+35879,40,Male,Widowed,Bachelor's Degree,Dadra and Nagar Haveli,Manager,118299,policy4,8/24/2019,Chat,policy1,760317,4417,Group,Email,Text,Weekends,French,Segment5
+92862,53,Female,Married,High School Diploma,Arunachal Pradesh,Salesperson,58401,policy2,02-10-2020,Phone,policy5,885024,2175,Individual,Text,Phone,Weekends,French,Segment2
+3792,68,Male,Separated,Bachelor's Degree,Himachal Pradesh,Salesperson,85875,policy1,12/17/2023,Mobile App,policy3,793941,1686,Business,Mail,Email,Afternoon,French,Segment3
+50536,57,Male,Divorced,High School Diploma,Punjab,Salesperson,125867,policy1,4/18/2018,In-Person,policy2,879195,733,Business,In-Person Meeting,Text,Weekends,Mandarin,Segment3
+88985,68,Female,Married,High School Diploma,Delhi,Manager,89518,policy3,01-12-2022,Email,policy3,612835,623,Group,Mail,Email,Morning,French,Segment5
+22602,23,Male,Married,Associate Degree,Delhi,Lawyer,25667,policy4,1/17/2022,Chat,policy5,50001,2909,Business,Text,In-Person Meeting,Weekends,English,Segment4
+68789,35,Female,Widowed,Doctorate,Dadra and Nagar Haveli,Engineer,136314,policy1,11/21/2020,Chat,policy4,362506,3566,Family,Text,In-Person Meeting,Anytime,French,Segment3
+37255,33,Female,Single,High School Diploma,Kerala,Doctor,36403,policy4,5/18/2018,Chat,policy2,451282,1136,Family,Mail,In-Person Meeting,Morning,English,Segment5
+64515,67,Male,Separated,Associate Degree,Haryana,Artist,86795,policy4,4/15/2018,Mobile App,policy4,548503,3037,Group,Mail,In-Person Meeting,Anytime,English,Segment3
+32937,25,Male,Married,Doctorate,Dadra and Nagar Haveli,Teacher,28768,policy3,10/24/2022,Email,policy1,854247,4105,Family,Phone,Phone,Weekends,French,Segment2
+88158,38,Male,Separated,Bachelor's Degree,Madhya Pradesh,Entrepreneur,145982,policy3,10/16/2022,Mobile App,policy4,209193,2780,Family,Email,Mail,Morning,French,Segment4
+34755,45,Male,Divorced,Master's Degree,West Bengal,Doctor,25078,policy2,04-04-2018,Email,policy3,498692,2441,Group,Email,Phone,Afternoon,French,Segment4
+80157,37,Male,Divorced,High School Diploma,Puducherry,Teacher,34173,policy2,7/24/2018,In-Person,policy3,95472,4298,Family,Phone,Phone,Weekends,German,Segment5
+82166,59,Female,Married,Doctorate,Madhya Pradesh,Teacher,106025,policy3,12-08-2022,Email,policy2,883566,3577,Business,Phone,Text,Afternoon,Mandarin,Segment3
+21502,37,Male,Single,Doctorate,Maharashtra,Artist,135417,policy2,3/26/2023,In-Person,policy4,637511,1902,Group,In-Person Meeting,Mail,Afternoon,German,Segment3
+75533,67,Female,Widowed,Associate Degree,Haryana,Manager,51132,policy3,4/22/2022,Chat,policy1,151720,4520,Individual,In-Person Meeting,In-Person Meeting,Morning,French,Segment4
+74907,55,Male,Single,Doctorate,Jharkhand,Manager,122826,policy2,6/28/2022,Chat,policy1,144440,1580,Family,Email,Phone,Weekends,Mandarin,Segment4
+32754,55,Male,Divorced,Doctorate,Kerala,Salesperson,136045,policy3,6/17/2022,Mobile App,policy4,183676,3481,Group,Email,Email,Weekends,German,Segment1
+24738,35,Female,Married,Associate Degree,Manipur,Artist,101834,policy2,12-04-2023,Phone,policy1,176445,4263,Group,Mail,In-Person Meeting,Anytime,English,Segment5
+23983,61,Male,Widowed,Associate Degree,Chandigarh,Entrepreneur,146046,policy5,04-02-2019,Chat,policy1,164121,1757,Business,Mail,Phone,Morning,German,Segment2
+34916,47,Female,Married,High School Diploma,Maharashtra,Salesperson,122889,policy3,11-12-2023,Mobile App,policy2,851601,2947,Family,Text,In-Person Meeting,Evening,German,Segment3
+89406,21,Male,Married,Bachelor's Degree,Rajasthan,Doctor,83525,policy3,6/15/2022,Email,policy1,586222,692,Group,In-Person Meeting,Mail,Weekends,English,Segment4
+92373,43,Female,Single,Bachelor's Degree,Mizoram,Teacher,90591,policy3,10-10-2023,Email,policy1,828663,3556,Group,Mail,In-Person Meeting,Morning,Mandarin,Segment2
+76593,70,Female,Divorced,Bachelor's Degree,Himachal Pradesh,Teacher,74086,policy1,09-02-2023,Email,policy4,626894,3549,Group,Email,Phone,Evening,Mandarin,Segment4
+30952,37,Female,Single,Master's Degree,Haryana,Doctor,100557,policy1,11-07-2023,Phone,policy2,442549,4382,Family,Text,Mail,Weekends,English,Segment5
+70710,47,Female,Married,Associate Degree,Sikkim,Lawyer,56046,policy5,07-02-2021,Chat,policy5,855523,3284,Group,Phone,Mail,Evening,Mandarin,Segment3
+13102,67,Male,Married,Doctorate,Tripura,Salesperson,68624,policy5,1/14/2021,In-Person,policy1,480980,1201,Group,Text,Text,Morning,Spanish,Segment2
+795,20,Female,Widowed,Bachelor's Degree,Maharashtra,Artist,116008,policy2,12/21/2021,Phone,policy5,772496,1939,Business,Text,In-Person Meeting,Evening,French,Segment3
+44973,44,Male,Divorced,Associate Degree,Tripura,Teacher,52823,policy3,7/22/2020,Mobile App,policy4,875673,1585,Group,Email,Phone,Evening,Mandarin,Segment5
+74898,59,Male,Single,Doctorate,Nagaland,Manager,102179,policy4,07-01-2020,Chat,policy1,340804,4257,Individual,In-Person Meeting,Email,Morning,English,Segment3
+87584,51,Male,Widowed,High School Diploma,Chandigarh,Entrepreneur,77719,policy1,10-06-2021,Chat,policy4,856807,1488,Individual,In-Person Meeting,Mail,Weekends,German,Segment3
+88239,58,Male,Divorced,Doctorate,Chhattisgarh,Teacher,28246,policy3,5/16/2022,In-Person,policy3,74041,4253,Family,Text,In-Person Meeting,Weekends,German,Segment2
+58479,33,Male,Married,Associate Degree,Telangana,Lawyer,74841,policy4,4/14/2018,Email,policy4,346643,4485,Business,Email,Mail,Anytime,French,Segment1
+63495,41,Female,Single,Doctorate,Nagaland,Lawyer,49791,policy3,1/16/2021,Chat,policy3,968137,787,Business,Email,Mail,Weekends,German,Segment5
+3068,65,Female,Single,High School Diploma,Manipur,Lawyer,143941,policy5,9/27/2022,Mobile App,policy3,698698,3083,Business,Text,Email,Weekends,Mandarin,Segment3
+92659,26,Female,Married,Master's Degree,Lakshadweep,Artist,144154,policy2,08-02-2021,Phone,policy2,189806,3560,Business,In-Person Meeting,Text,Morning,German,Segment1
+53241,37,Male,Single,Doctorate,Andaman and Nicobar Islands,Doctor,141120,policy5,4/19/2021,Mobile App,policy5,147630,1798,Group,Phone,Email,Morning,German,Segment2
+18426,55,Female,Divorced,Associate Degree,Telangana,Entrepreneur,89231,policy2,10/21/2022,In-Person,policy1,153575,4297,Family,Text,Phone,Morning,Spanish,Segment3
+68505,46,Male,Single,High School Diploma,Tripura,Lawyer,144780,policy4,12-08-2018,Email,policy3,688709,4387,Family,In-Person Meeting,In-Person Meeting,Afternoon,English,Segment4
+1059,20,Female,Separated,High School Diploma,West Bengal,Nurse,34692,policy2,10-01-2020,Mobile App,policy2,214966,1202,Family,Text,In-Person Meeting,Morning,Spanish,Segment2
+40545,26,Male,Divorced,Associate Degree,Rajasthan,Teacher,141194,policy2,4/17/2018,Chat,policy5,497429,4279,Business,Email,Text,Evening,German,Segment1
+66444,51,Male,Widowed,Master's Degree,Bihar,Entrepreneur,134612,policy4,12/23/2020,In-Person,policy1,515461,2918,Business,Text,Email,Evening,German,Segment2
+86371,53,Female,Divorced,Associate Degree,West Bengal,Lawyer,108400,policy4,01-06-2023,Chat,policy4,987601,4400,Family,Email,Email,Morning,German,Segment5
+70519,20,Female,Married,Doctorate,Karnataka,Entrepreneur,80974,policy1,6/28/2022,Mobile App,policy3,669105,3396,Business,Phone,Phone,Afternoon,Mandarin,Segment3
+77714,45,Female,Married,Associate Degree,Odisha,Artist,135603,policy3,10/18/2023,Phone,policy1,138202,4338,Individual,Mail,Phone,Anytime,English,Segment3
+4353,56,Female,Married,Doctorate,Meghalaya,Doctor,40593,policy5,2/22/2022,Phone,policy4,724576,3702,Individual,Email,Text,Morning,German,Segment5
+34197,52,Male,Separated,Associate Degree,Jharkhand,Salesperson,132319,policy2,3/27/2018,Chat,policy5,768097,3474,Business,Email,Phone,Weekends,Mandarin,Segment3
+52881,35,Male,Divorced,High School Diploma,Mizoram,Lawyer,32799,policy5,6/24/2023,Mobile App,policy3,201341,3138,Family,Email,In-Person Meeting,Afternoon,German,Segment2
+65441,23,Male,Married,Master's Degree,Punjab,Teacher,66133,policy3,1/18/2023,Phone,policy2,147191,3746,Group,Text,In-Person Meeting,Evening,English,Segment1
+12649,19,Female,Divorced,High School Diploma,Maharashtra,Entrepreneur,114458,policy2,01-12-2019,Email,policy3,511902,4227,Family,Text,In-Person Meeting,Weekends,French,Segment3
+3894,33,Female,Single,High School Diploma,Himachal Pradesh,Nurse,37106,policy4,11/25/2019,Phone,policy3,613633,3503,Family,Phone,Text,Evening,Mandarin,Segment3
+56932,35,Male,Widowed,High School Diploma,West Bengal,Manager,36761,policy3,08-10-2018,Chat,policy3,687190,2366,Business,Text,Phone,Morning,English,Segment4
+85183,31,Male,Divorced,High School Diploma,Tamil Nadu,Doctor,143758,policy2,7/13/2021,Chat,policy2,99701,2216,Group,Mail,In-Person Meeting,Weekends,Mandarin,Segment3
+33284,47,Male,Widowed,Associate Degree,Goa,Nurse,70482,policy1,01-12-2023,Chat,policy2,279298,2658,Group,Phone,Mail,Evening,French,Segment5
+70102,39,Female,Married,Master's Degree,Delhi,Teacher,72314,policy4,5/28/2023,Phone,policy2,581779,635,Individual,In-Person Meeting,Phone,Afternoon,English,Segment3
+70876,29,Female,Separated,High School Diploma,Andhra Pradesh,Engineer,143911,policy4,5/24/2020,Phone,policy2,622744,4126,Family,In-Person Meeting,In-Person Meeting,Evening,French,Segment5
+72479,64,Male,Widowed,High School Diploma,Uttar Pradesh,Manager,145422,policy3,7/22/2023,Mobile App,policy3,813387,3572,Group,Phone,Email,Morning,English,Segment1
+50135,31,Male,Married,Bachelor's Degree,Lakshadweep,Doctor,144559,policy1,07-09-2018,Phone,policy1,949161,4628,Group,Text,Email,Morning,Spanish,Segment1
+45454,23,Female,Married,Associate Degree,Andaman and Nicobar Islands,Lawyer,88143,policy1,03-02-2019,Mobile App,policy4,186863,1316,Family,In-Person Meeting,In-Person Meeting,Morning,English,Segment3
+96327,68,Male,Divorced,Associate Degree,Delhi,Salesperson,33823,policy4,6/17/2019,Mobile App,policy2,258500,4644,Group,Text,Mail,Evening,French,Segment4
+16203,56,Male,Divorced,Master's Degree,Puducherry,Teacher,76343,policy4,02-03-2019,Mobile App,policy2,725860,4267,Business,Email,In-Person Meeting,Evening,Mandarin,Segment5
+2967,34,Female,Married,Master's Degree,Haryana,Teacher,101557,policy1,10/21/2018,Email,policy3,285640,4668,Business,Text,In-Person Meeting,Evening,French,Segment2
+56310,48,Male,Divorced,Doctorate,Kerala,Teacher,25988,policy4,8/25/2018,Email,policy1,203365,3575,Individual,Text,Email,Morning,Spanish,Segment3
+97449,33,Female,Divorced,High School Diploma,Assam,Lawyer,72368,policy4,05-03-2020,Mobile App,policy3,303768,4367,Family,Email,Phone,Morning,English,Segment5
+6857,51,Female,Married,Associate Degree,Bihar,Lawyer,117187,policy1,10/17/2022,Phone,policy2,738680,3172,Business,Email,Mail,Morning,French,Segment2
+35266,68,Male,Married,High School Diploma,Lakshadweep,Entrepreneur,69328,policy2,10-03-2023,Mobile App,policy1,187922,3864,Group,Email,Phone,Anytime,Mandarin,Segment5
+96944,70,Male,Married,Bachelor's Degree,Meghalaya,Manager,116189,policy2,01-07-2022,Phone,policy3,690744,4528,Group,Phone,Text,Weekends,English,Segment1
+87312,58,Female,Separated,High School Diploma,Uttarakhand,Manager,145614,policy1,3/21/2021,Phone,policy4,377619,3524,Family,Phone,In-Person Meeting,Evening,Mandarin,Segment1
+36158,20,Male,Widowed,High School Diploma,Jharkhand,Entrepreneur,81854,policy4,1/25/2022,In-Person,policy1,849413,2102,Business,Email,Email,Morning,French,Segment5
+25390,39,Male,Widowed,Master's Degree,Uttar Pradesh,Lawyer,144340,policy1,11/19/2023,In-Person,policy2,799607,1681,Business,In-Person Meeting,In-Person Meeting,Weekends,French,Segment5
+96532,68,Male,Widowed,High School Diploma,Sikkim,Nurse,87337,policy5,1/21/2018,In-Person,policy3,870247,3063,Individual,Phone,Phone,Weekends,English,Segment4
+15616,37,Female,Widowed,Master's Degree,Chhattisgarh,Lawyer,68999,policy4,2/25/2018,In-Person,policy4,566304,2237,Group,Phone,Phone,Afternoon,Mandarin,Segment1
+87975,59,Male,Divorced,Associate Degree,Manipur,Doctor,119693,policy4,10/21/2019,Phone,policy1,221392,3189,Group,Email,Mail,Afternoon,Mandarin,Segment5
+73773,41,Female,Widowed,Associate Degree,Mizoram,Nurse,35133,policy3,11-06-2020,In-Person,policy3,388838,3183,Family,Mail,Phone,Anytime,English,Segment5
+76937,60,Female,Separated,Bachelor's Degree,Bihar,Artist,146937,policy2,4/25/2022,Phone,policy2,217513,3572,Group,In-Person Meeting,Email,Afternoon,English,Segment3
+74014,30,Female,Separated,High School Diploma,Haryana,Manager,49349,policy3,1/16/2019,Mobile App,policy5,166377,4697,Group,Email,Email,Afternoon,German,Segment2
+84495,38,Male,Single,High School Diploma,Haryana,Salesperson,70348,policy2,10-08-2023,In-Person,policy5,233750,3678,Group,Phone,In-Person Meeting,Anytime,English,Segment3
+91959,21,Male,Married,High School Diploma,Himachal Pradesh,Artist,128745,policy4,08-06-2022,In-Person,policy2,594296,4436,Family,Email,Mail,Weekends,German,Segment5
+33206,55,Male,Separated,Associate Degree,Himachal Pradesh,Engineer,127517,policy5,06-05-2019,Mobile App,policy2,673827,2938,Group,Email,Text,Morning,French,Segment2
+24133,64,Female,Separated,Doctorate,Lakshadweep,Salesperson,118038,policy2,12/21/2020,Mobile App,policy3,515202,1792,Family,Email,In-Person Meeting,Afternoon,Spanish,Segment2
+8957,29,Male,Widowed,Associate Degree,Daman and Diu,Lawyer,44219,policy3,3/17/2020,Email,policy2,218100,4889,Family,Email,Mail,Morning,Mandarin,Segment1
+87909,54,Male,Separated,Master's Degree,Rajasthan,Entrepreneur,132161,policy1,07-02-2023,Mobile App,policy5,558309,2840,Family,Text,Text,Anytime,German,Segment5
+73298,52,Male,Divorced,Bachelor's Degree,Rajasthan,Engineer,55137,policy3,04-03-2018,Email,policy2,750440,3959,Business,Email,In-Person Meeting,Afternoon,German,Segment1
+64725,63,Male,Widowed,Bachelor's Degree,Goa,Salesperson,86965,policy5,07-12-2019,Phone,policy1,61748,4337,Group,Mail,Phone,Afternoon,Spanish,Segment4
+1,26,Female,Married,High School Diploma,Telangana,Artist,37298,policy3,6/17/2018,Phone,policy5,480381,4460,Family,Text,Phone,Anytime,Mandarin,Segment1
+9693,26,Female,Single,Doctorate,Odisha,Entrepreneur,108425,policy2,09-02-2022,Phone,policy3,540761,749,Family,Mail,Mail,Morning,English,Segment1
+18120,34,Male,Married,Bachelor's Degree,Jharkhand,Manager,57050,policy5,06-12-2019,Phone,policy3,423471,3630,Group,Text,In-Person Meeting,Weekends,French,Segment2
+71792,69,Female,Divorced,Master's Degree,Sikkim,Doctor,141876,policy5,06-02-2019,In-Person,policy3,220342,3616,Business,Email,Mail,Weekends,German,Segment5
+32971,47,Male,Single,Doctorate,Rajasthan,Salesperson,86918,policy5,07-11-2023,In-Person,policy3,603777,1399,Individual,Email,Text,Weekends,Mandarin,Segment5
+85033,31,Female,Divorced,Doctorate,Assam,Doctor,41852,policy5,10-09-2022,Chat,policy2,306805,4833,Family,Mail,Text,Weekends,French,Segment2
+22629,23,Male,Single,High School Diploma,Odisha,Lawyer,33250,policy4,11/16/2018,Mobile App,policy2,849271,2717,Individual,Email,In-Person Meeting,Afternoon,French,Segment4
+4531,45,Male,Married,High School Diploma,Dadra and Nagar Haveli,Lawyer,120418,policy5,1/16/2020,Chat,policy1,812338,4573,Individual,Email,Phone,Anytime,English,Segment3
+87799,37,Female,Divorced,Bachelor's Degree,West Bengal,Artist,125717,policy5,01-12-2021,In-Person,policy2,322405,3640,Family,Email,In-Person Meeting,Afternoon,Mandarin,Segment2
+72916,48,Female,Divorced,Bachelor's Degree,Chandigarh,Salesperson,92807,policy4,12/27/2020,Chat,policy2,557448,2778,Group,Email,Phone,Afternoon,German,Segment5
+80687,64,Female,Widowed,High School Diploma,Lakshadweep,Salesperson,95543,policy2,12-09-2019,Email,policy1,404771,1643,Business,Mail,Email,Morning,English,Segment1
+17558,40,Female,Married,Doctorate,Himachal Pradesh,Teacher,129889,policy3,12/25/2018,Chat,policy3,601396,2672,Business,Mail,Email,Weekends,English,Segment5
+88534,39,Female,Widowed,Master's Degree,Tripura,Entrepreneur,117281,policy3,12/25/2019,Mobile App,policy1,283200,2288,Family,Phone,Phone,Afternoon,German,Segment1
+71506,69,Male,Divorced,Doctorate,Meghalaya,Engineer,66359,policy2,02-04-2019,Chat,policy3,160208,1861,Business,Mail,Mail,Morning,French,Segment2
+7555,44,Male,Separated,High School Diploma,Gujarat,Lawyer,57451,policy3,11/24/2021,In-Person,policy1,565867,4424,Business,Phone,Phone,Weekends,French,Segment4
+33860,36,Male,Divorced,Associate Degree,Tamil Nadu,Doctor,106090,policy3,6/23/2023,Mobile App,policy2,938999,2364,Family,Email,Phone,Evening,French,Segment5
+13972,23,Male,Single,Associate Degree,Arunachal Pradesh,Nurse,94921,policy5,8/17/2020,Email,policy5,763467,2697,Group,Text,Email,Morning,French,Segment1
+90782,56,Female,Single,High School Diploma,Chandigarh,Lawyer,98388,policy3,10/18/2022,Chat,policy1,338117,1541,Group,Mail,Phone,Weekends,German,Segment3
+40537,62,Female,Divorced,Associate Degree,Chandigarh,Engineer,137030,policy5,06-09-2020,Chat,policy2,570992,2372,Family,In-Person Meeting,Mail,Anytime,French,Segment4
+67167,31,Female,Separated,High School Diploma,Gujarat,Salesperson,145961,policy4,10/26/2020,Phone,policy1,531516,4299,Business,Text,In-Person Meeting,Anytime,Mandarin,Segment3
+28436,64,Male,Single,Doctorate,Lakshadweep,Entrepreneur,69067,policy1,10/25/2022,Mobile App,policy3,369648,1816,Individual,Mail,Phone,Afternoon,French,Segment3
+38998,62,Male,Separated,Associate Degree,Uttar Pradesh,Lawyer,24192,policy2,04-02-2018,Mobile App,policy1,186670,3413,Family,Mail,In-Person Meeting,Weekends,English,Segment2
+59833,24,Male,Single,High School Diploma,Karnataka,Salesperson,31483,policy2,1/19/2020,Mobile App,policy2,663208,4648,Individual,Phone,Email,Afternoon,German,Segment5
+14322,23,Female,Single,High School Diploma,Meghalaya,Manager,43821,policy3,7/28/2023,Mobile App,policy5,437147,4316,Group,Phone,In-Person Meeting,Weekends,Spanish,Segment3
+4799,53,Female,Widowed,Doctorate,Haryana,Nurse,40030,policy5,05-02-2020,Mobile App,policy5,64282,3867,Group,Mail,In-Person Meeting,Evening,English,Segment3
+92641,26,Male,Widowed,Doctorate,Bihar,Lawyer,22807,policy3,7/23/2020,Mobile App,policy5,660275,4593,Group,Text,In-Person Meeting,Afternoon,Mandarin,Segment4
+46037,39,Male,Single,High School Diploma,Puducherry,Doctor,106047,policy3,4/25/2022,Chat,policy4,545049,2892,Group,Text,Phone,Anytime,English,Segment2
+93855,52,Female,Single,High School Diploma,Manipur,Entrepreneur,87341,policy1,12/15/2020,Mobile App,policy4,650295,4592,Family,Email,In-Person Meeting,Weekends,English,Segment4
+34251,53,Female,Separated,High School Diploma,Uttarakhand,Engineer,41080,policy3,03-11-2022,Mobile App,policy5,79407,2901,Group,In-Person Meeting,Phone,Morning,German,Segment1
+83837,64,Male,Divorced,Master's Degree,Tripura,Entrepreneur,110838,policy3,10-04-2020,In-Person,policy2,500348,2281,Group,In-Person Meeting,Mail,Morning,English,Segment3
+66684,62,Male,Divorced,Bachelor's Degree,Goa,Nurse,34740,policy2,10/20/2022,Chat,policy1,143864,3147,Individual,Email,Phone,Afternoon,English,Segment4
+88923,35,Female,Separated,High School Diploma,Chhattisgarh,Lawyer,38229,policy5,12-02-2018,In-Person,policy2,829498,1878,Business,Phone,In-Person Meeting,Weekends,Spanish,Segment3
+85930,58,Male,Separated,Bachelor's Degree,Assam,Manager,95089,policy1,2/18/2019,In-Person,policy3,188012,2769,Group,In-Person Meeting,Email,Morning,Mandarin,Segment1
+48246,45,Male,Divorced,Master's Degree,Chhattisgarh,Manager,34479,policy2,2/17/2019,Mobile App,policy2,287827,2576,Business,Phone,Phone,Weekends,German,Segment1
+31319,36,Male,Single,Associate Degree,Bihar,Engineer,97476,policy1,12/17/2019,Mobile App,policy2,507886,3338,Business,Text,In-Person Meeting,Weekends,Mandarin,Segment3
+86750,46,Male,Single,Bachelor's Degree,Maharashtra,Salesperson,69439,policy1,04-01-2018,Chat,policy4,296286,3068,Group,Mail,Mail,Morning,German,Segment5
+13273,19,Female,Single,Doctorate,Chandigarh,Lawyer,112475,policy1,2/28/2021,Mobile App,policy2,543926,3688,Group,Phone,In-Person Meeting,Morning,German,Segment4
+65553,37,Female,Widowed,Master's Degree,Tripura,Teacher,56568,policy2,9/22/2020,Chat,policy3,204818,3245,Family,In-Person Meeting,Mail,Morning,German,Segment2
+96542,19,Male,Widowed,Master's Degree,Chhattisgarh,Teacher,135554,policy4,11/27/2019,Chat,policy5,422449,3029,Business,Text,Mail,Weekends,German,Segment2
+65421,39,Male,Married,Bachelor's Degree,Tamil Nadu,Lawyer,80979,policy2,08-10-2022,Email,policy2,396407,4474,Family,Email,Email,Evening,French,Segment2
+4853,38,Male,Divorced,Associate Degree,Meghalaya,Teacher,93452,policy2,3/14/2021,Chat,policy2,132794,3028,Group,In-Person Meeting,In-Person Meeting,Morning,French,Segment3
+76083,70,Male,Married,Bachelor's Degree,Delhi,Teacher,118783,policy4,12-05-2022,Chat,policy2,77879,3907,Family,Text,In-Person Meeting,Morning,English,Segment4
+34965,36,Male,Married,Doctorate,Madhya Pradesh,Salesperson,149115,policy2,06-06-2019,Chat,policy3,322110,4497,Business,Mail,Phone,Afternoon,Mandarin,Segment5
+90065,26,Female,Married,Associate Degree,Chhattisgarh,Nurse,43205,policy3,3/27/2022,Chat,policy1,875289,3114,Individual,Mail,In-Person Meeting,Evening,Spanish,Segment2
+37289,45,Female,Widowed,Master's Degree,Dadra and Nagar Haveli,Entrepreneur,76638,policy4,2/13/2018,Chat,policy1,872792,4622,Family,Mail,Phone,Weekends,German,Segment3
+28260,54,Male,Single,Master's Degree,Chhattisgarh,Engineer,66831,policy5,05-01-2023,Chat,policy2,187627,1768,Group,Email,Text,Weekends,German,Segment3
+80597,39,Female,Married,Bachelor's Degree,Punjab,Nurse,143803,policy5,12/13/2022,Email,policy1,144099,2336,Group,Email,Phone,Afternoon,Spanish,Segment1
+88404,37,Female,Separated,Master's Degree,Dadra and Nagar Haveli,Engineer,80237,policy5,12-01-2022,Phone,policy5,85155,1916,Group,Mail,Email,Evening,German,Segment4
+63153,31,Male,Divorced,Associate Degree,Uttar Pradesh,Manager,65752,policy3,07-09-2023,Email,policy1,889688,626,Group,Email,In-Person Meeting,Weekends,English,Segment1
+36381,40,Male,Married,Associate Degree,Chandigarh,Doctor,96555,policy3,04-04-2022,Chat,policy4,803702,3028,Family,Mail,Text,Morning,German,Segment5
+79371,45,Female,Married,Doctorate,Andaman and Nicobar Islands,Teacher,65240,policy4,4/26/2021,Email,policy1,598385,3930,Group,Email,Phone,Afternoon,French,Segment4
+65378,37,Male,Widowed,High School Diploma,Delhi,Lawyer,48832,policy1,9/19/2022,Mobile App,policy2,205148,1670,Family,Phone,Email,Afternoon,Spanish,Segment1
+8293,47,Female,Separated,High School Diploma,Karnataka,Manager,110554,policy3,10/24/2020,Chat,policy2,629596,3855,Business,Text,Email,Afternoon,German,Segment3
+40543,48,Female,Divorced,Master's Degree,Uttar Pradesh,Manager,22850,policy2,05-04-2023,Chat,policy5,258186,567,Business,Mail,Mail,Morning,Spanish,Segment3
+45444,30,Male,Divorced,High School Diploma,West Bengal,Salesperson,96156,policy2,10-05-2021,Chat,policy3,212663,661,Family,In-Person Meeting,Email,Weekends,German,Segment3
+69341,42,Male,Married,Associate Degree,Haryana,Teacher,69586,policy2,02-09-2021,In-Person,policy1,112810,2375,Business,Text,In-Person Meeting,Afternoon,English,Segment4
+75160,36,Female,Single,Associate Degree,Himachal Pradesh,Teacher,145829,policy5,03-04-2023,Email,policy3,603353,4209,Business,Text,Text,Anytime,English,Segment5
+92338,35,Male,Single,Doctorate,Haryana,Teacher,99168,policy4,2/19/2023,Chat,policy4,195827,1550,Business,Phone,In-Person Meeting,Weekends,French,Segment5
+5656,47,Male,Widowed,Master's Degree,Assam,Entrepreneur,96023,policy3,02-02-2019,Chat,policy1,299629,2635,Individual,Mail,Text,Morning,German,Segment2
+77576,20,Female,Married,Master's Degree,Himachal Pradesh,Lawyer,118627,policy4,12/16/2020,In-Person,policy3,760823,4084,Individual,Phone,In-Person Meeting,Weekends,English,Segment2
+79511,64,Female,Divorced,Doctorate,Gujarat,Nurse,88726,policy2,2/23/2021,Phone,policy5,616887,3655,Group,Phone,Phone,Morning,German,Segment4
+59584,23,Male,Married,Bachelor's Degree,Gujarat,Teacher,66297,policy4,5/28/2023,Phone,policy1,866054,4555,Business,Text,Text,Weekends,German,Segment1
+34861,36,Male,Widowed,Master's Degree,Arunachal Pradesh,Salesperson,118070,policy1,08-11-2020,Mobile App,policy5,944380,709,Group,Email,Phone,Weekends,German,Segment5
+70463,25,Female,Separated,Master's Degree,Telangana,Artist,37647,policy4,03-12-2022,Chat,policy2,386330,2159,Family,Email,In-Person Meeting,Anytime,German,Segment4
+80563,47,Male,Widowed,Doctorate,Meghalaya,Doctor,71557,policy3,08-05-2022,Phone,policy1,437699,3824,Group,Text,Email,Anytime,German,Segment5
+11388,49,Male,Single,Doctorate,Punjab,Entrepreneur,52610,policy2,11-01-2020,Mobile App,policy3,505140,3709,Business,Phone,Email,Morning,Mandarin,Segment5
+24662,45,Male,Married,High School Diploma,Dadra and Nagar Haveli,Artist,88672,policy5,07-01-2023,Phone,policy3,569823,1549,Business,Text,In-Person Meeting,Morning,Spanish,Segment4
+5296,19,Female,Single,High School Diploma,Karnataka,Manager,38661,policy3,3/21/2021,Phone,policy4,835928,1468,Group,Email,Mail,Anytime,German,Segment4
+6543,65,Female,Single,High School Diploma,Manipur,Nurse,135528,policy5,04-11-2019,Chat,policy1,620922,3388,Individual,In-Person Meeting,Phone,Morning,French,Segment1
+36456,42,Female,Divorced,Doctorate,Himachal Pradesh,Doctor,92123,policy2,07-08-2021,Chat,policy1,198386,1842,Business,Mail,Phone,Morning,German,Segment2
+93687,25,Female,Divorced,Associate Degree,Maharashtra,Salesperson,33634,policy4,6/15/2018,In-Person,policy3,518667,3188,Family,Text,Phone,Morning,Mandarin,Segment4
+10440,34,Female,Married,Bachelor's Degree,Bihar,Salesperson,142791,policy5,04-12-2023,Mobile App,policy2,599328,4596,Group,Text,Phone,Morning,German,Segment4
+34878,56,Male,Widowed,Associate Degree,Mizoram,Artist,32167,policy2,03-08-2023,Mobile App,policy2,252431,1944,Group,Phone,Text,Evening,Mandarin,Segment2
+24995,22,Male,Married,Bachelor's Degree,Nagaland,Artist,34620,policy1,2/16/2018,In-Person,policy3,467531,761,Individual,Phone,In-Person Meeting,Weekends,French,Segment5
+64396,43,Male,Married,Master's Degree,Nagaland,Doctor,130554,policy1,10-09-2020,Email,policy2,176212,628,Individual,Email,Mail,Morning,Mandarin,Segment2
+93034,39,Female,Widowed,High School Diploma,Bihar,Salesperson,78823,policy2,10/16/2018,Mobile App,policy1,305368,3722,Business,In-Person Meeting,In-Person Meeting,Weekends,German,Segment3
+26729,45,Male,Separated,High School Diploma,Uttar Pradesh,Doctor,125138,policy4,09-05-2018,Email,policy4,422980,4377,Family,Email,Mail,Afternoon,French,Segment4
+22229,28,Female,Married,Master's Degree,Himachal Pradesh,Artist,100499,policy3,10/17/2018,Chat,policy3,672519,735,Family,Email,Phone,Afternoon,English,Segment2
+1815,41,Male,Widowed,Associate Degree,Nagaland,Teacher,20912,policy2,08-12-2018,Chat,policy4,732312,2221,Group,Text,Text,Morning,Spanish,Segment1
+69269,29,Male,Separated,Master's Degree,Daman and Diu,Manager,76895,policy4,09-03-2022,In-Person,policy2,405216,4442,Family,Phone,In-Person Meeting,Evening,Mandarin,Segment3
+3589,63,Male,Divorced,Master's Degree,Odisha,Salesperson,122952,policy1,06-01-2022,In-Person,policy2,365010,636,Family,Mail,In-Person Meeting,Afternoon,German,Segment2
+68449,54,Female,Separated,Bachelor's Degree,Jharkhand,Engineer,69931,policy4,1/18/2020,In-Person,policy2,722480,3937,Family,Mail,Mail,Morning,German,Segment3
+79355,24,Female,Divorced,High School Diploma,Telangana,Nurse,96639,policy4,10-09-2022,In-Person,policy5,96594,4466,Business,Email,Mail,Evening,English,Segment5
+65533,57,Male,Widowed,Doctorate,Andaman and Nicobar Islands,Manager,48224,policy2,12/15/2019,In-Person,policy1,854849,4512,Group,In-Person Meeting,Phone,Morning,English,Segment2
+63071,37,Female,Married,Associate Degree,Tamil Nadu,Nurse,53126,policy1,09-11-2022,Email,policy1,87703,1431,Business,Mail,Mail,Morning,German,Segment1
+33332,46,Female,Single,Associate Degree,Andaman and Nicobar Islands,Entrepreneur,70314,policy2,03-11-2018,In-Person,policy2,450166,3652,Business,Phone,In-Person Meeting,Afternoon,French,Segment2
+70855,48,Male,Divorced,High School Diploma,Haryana,Doctor,33578,policy5,5/27/2022,Chat,policy3,919361,1249,Group,In-Person Meeting,In-Person Meeting,Weekends,French,Segment2
+96441,64,Female,Widowed,Associate Degree,Tamil Nadu,Entrepreneur,28753,policy4,10-02-2021,In-Person,policy2,796038,3450,Individual,Mail,Email,Weekends,French,Segment3
+61751,38,Male,Married,Doctorate,Kerala,Manager,99136,policy2,11/20/2022,Mobile App,policy4,260950,4559,Family,Text,Mail,Weekends,French,Segment5
+44443,60,Female,Separated,Bachelor's Degree,Sikkim,Lawyer,89222,policy3,9/17/2020,Mobile App,policy3,665999,1797,Individual,Text,Phone,Evening,French,Segment4
+74936,26,Male,Single,Bachelor's Degree,Uttarakhand,Doctor,70280,policy2,03-05-2020,Mobile App,policy3,160105,1843,Family,Text,Text,Anytime,Mandarin,Segment4
+51310,67,Female,Married,Doctorate,Jharkhand,Teacher,135887,policy1,11-10-2019,Phone,policy4,353123,2085,Business,Mail,Phone,Weekends,Spanish,Segment3
+17137,30,Male,Widowed,High School Diploma,Sikkim,Nurse,39720,policy3,05-11-2021,Chat,policy1,713856,669,Group,Mail,In-Person Meeting,Morning,Mandarin,Segment4
+94422,42,Male,Divorced,Master's Degree,Assam,Engineer,115575,policy3,12/13/2019,Chat,policy4,699004,1641,Business,Text,Text,Weekends,Spanish,Segment1
+41720,59,Male,Married,Bachelor's Degree,Delhi,Salesperson,57650,policy2,11-07-2022,Mobile App,policy4,970108,1610,Group,Mail,Phone,Anytime,German,Segment2
+82442,64,Male,Widowed,Master's Degree,Sikkim,Lawyer,93497,policy5,10/28/2019,Mobile App,policy1,129616,2032,Business,Email,Mail,Weekends,French,Segment2
+34401,23,Female,Widowed,Doctorate,Madhya Pradesh,Engineer,39033,policy3,10/25/2020,Email,policy1,195688,2715,Group,Text,In-Person Meeting,Evening,Mandarin,Segment5
+83008,53,Male,Widowed,High School Diploma,Uttar Pradesh,Doctor,137008,policy1,4/25/2020,Chat,policy1,528416,1295,Individual,Email,Email,Weekends,Mandarin,Segment5
+70127,32,Female,Widowed,High School Diploma,Bihar,Manager,35257,policy3,7/18/2023,Chat,policy1,905984,2757,Group,In-Person Meeting,Text,Evening,Spanish,Segment3
+63069,24,Male,Widowed,Associate Degree,Gujarat,Manager,64743,policy3,07-07-2022,Mobile App,policy1,413718,2879,Group,Email,In-Person Meeting,Morning,German,Segment3
+37978,45,Male,Separated,Master's Degree,Delhi,Teacher,37448,policy1,6/21/2023,Email,policy2,365160,4574,Group,Text,Mail,Weekends,French,Segment2
+63278,50,Male,Divorced,Bachelor's Degree,Delhi,Manager,107935,policy3,11-04-2018,Email,policy5,961288,1227,Business,Phone,Text,Afternoon,English,Segment2
+361,57,Male,Single,Bachelor's Degree,Jharkhand,Artist,40112,policy1,04-02-2019,In-Person,policy5,274367,599,Family,Text,Email,Weekends,Mandarin,Segment4
+88902,31,Male,Separated,Associate Degree,Manipur,Teacher,113605,policy5,12-11-2019,In-Person,policy1,405507,1525,Group,Text,Mail,Weekends,English,Segment5
+70436,64,Male,Widowed,Doctorate,West Bengal,Nurse,146071,policy4,03-04-2021,Mobile App,policy5,81611,3404,Business,In-Person Meeting,Mail,Anytime,Mandarin,Segment1
+12666,54,Female,Single,High School Diploma,Maharashtra,Engineer,50746,policy3,05-08-2023,Mobile App,policy1,352050,4394,Individual,Email,Phone,Weekends,French,Segment3
+67617,63,Male,Divorced,High School Diploma,Sikkim,Salesperson,51096,policy2,07-06-2021,Chat,policy2,149006,4357,Group,Email,Mail,Weekends,Spanish,Segment5
+68232,69,Female,Single,Associate Degree,Telangana,Artist,94162,policy5,05-03-2018,Chat,policy1,200704,3410,Business,Phone,Phone,Morning,Spanish,Segment2
+69507,70,Female,Separated,Doctorate,Delhi,Engineer,127115,policy3,1/13/2022,Chat,policy2,980035,4339,Group,Email,Text,Weekends,German,Segment3
+1517,48,Female,Widowed,High School Diploma,Tamil Nadu,Lawyer,85507,policy3,7/17/2023,In-Person,policy3,685647,1725,Individual,Email,Phone,Weekends,German,Segment5
+88439,60,Male,Widowed,Associate Degree,Bihar,Salesperson,26406,policy3,6/23/2021,In-Person,policy4,591584,1062,Business,Phone,Phone,Weekends,Mandarin,Segment5
+53269,63,Male,Married,Master's Degree,Andaman and Nicobar Islands,Lawyer,119825,policy2,05-11-2018,Email,policy4,602985,4452,Group,Email,Email,Anytime,Mandarin,Segment3
+54900,56,Male,Separated,Master's Degree,Lakshadweep,Lawyer,42273,policy3,4/21/2019,Email,policy1,191084,3551,Business,Email,Email,Evening,German,Segment5
+76618,70,Male,Divorced,Doctorate,Haryana,Teacher,99488,policy3,11-01-2020,Phone,policy3,582087,4567,Family,In-Person Meeting,Email,Afternoon,English,Segment2
+89714,34,Male,Widowed,Associate Degree,Puducherry,Entrepreneur,26869,policy5,7/24/2023,In-Person,policy3,670021,3443,Business,Mail,Phone,Weekends,German,Segment2
+1,19,Female,Single,High School Diploma,Haryana,Salesperson,106557,policy3,10/24/2020,Phone,policy2,647850,4631,Individual,Text,Email,Afternoon,French,Segment3
+76410,46,Female,Divorced,High School Diploma,Assam,Manager,37433,policy1,4/26/2020,Email,policy2,327648,4755,Group,Mail,Email,Evening,German,Segment1
+76580,19,Female,Married,Master's Degree,Lakshadweep,Entrepreneur,66575,policy2,01-09-2022,Chat,policy5,944003,3055,Business,Mail,In-Person Meeting,Evening,English,Segment2
+96513,63,Female,Divorced,High School Diploma,Delhi,Nurse,57401,policy3,07-01-2018,Phone,policy2,203900,3280,Group,Text,Phone,Afternoon,German,Segment1
+88393,64,Female,Divorced,Associate Degree,Himachal Pradesh,Entrepreneur,145953,policy1,12-10-2020,Mobile App,policy1,571830,4357,Business,Email,Phone,Evening,French,Segment2
+72744,42,Male,Married,Bachelor's Degree,Manipur,Salesperson,37782,policy2,03-11-2018,Mobile App,policy2,572861,4664,Individual,Mail,In-Person Meeting,Morning,French,Segment3
+89406,49,Female,Married,Doctorate,Delhi,Salesperson,91200,policy5,2/18/2018,Mobile App,policy3,148992,4008,Group,Text,Mail,Morning,German,Segment3
+28206,62,Male,Widowed,Bachelor's Degree,Haryana,Entrepreneur,72139,policy2,9/21/2018,Chat,policy2,682702,1728,Business,In-Person Meeting,In-Person Meeting,Evening,Mandarin,Segment5

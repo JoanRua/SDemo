@@ -1,0 +1,96 @@
+USE DATABASE EDW_SANDEX;
+USE SCHEMA RAW;
+CREATE OR REPLACE TABLE RAW.CUSTOMER_SEGMENTATION_DATA (
+            Customer_ID int,
+            Age int,
+            Gender varchar,
+            Marital_Status varchar,
+            Education_Level varchar,
+            Geographic_Information varchar,
+            Occupation varchar,
+            Income_Level int,
+            Behavioral_Data varchar,
+            Purchase_History varchar,
+            Interactions_with_Customer_Service varchar,
+            Insurance_Products_Owned varchar,
+            Coverage_Amount int,
+            Premium_Amount int,
+            Policy_Type varchar,
+            Customer_Preferences varchar,
+            Preferred_Communication_Channel varchar,
+            Preferred_Contact_Time varchar,
+            Preferred_Language varchar,
+            Segmentation_Group varchar
+        );
+
+CREATE OR REPLACE FILE FORMAT CSV_FILE_FORMAT
+        TYPE = 'CSV'
+        FIELD_DELIMITER = ','
+        SKIP_HEADER = 1;
+
+CREATE OR REPLACE STAGE CUSTOMER_SEGMENTATION_STAGE
+        FILE_FORMAT = CSV_FILE_FORMAT;
+
+
+/*
+COPY INTO RAW.CUSTOMER_SEGMENTATION_DATA
+        FROM @CUSTOMER_SEGMENTATION_STAGE
+        FILE_FORMAT = (FORMAT_NAME = CSV_FILE_FORMAT);
+*/
+
+
+USE DATABASE EDW_SANDEX;
+USE SCHEMA PROD;
+
+create or replace TABLE PROD.DIM_CUSTOMER (
+	CUSTOMER_SK NUMBER(18,0) PRIMARY KEY,
+	SOURCE_CUSTOMER_ID NUMBER(38,0),
+	AGE NUMBER(38,0),
+	GENDER VARCHAR(6),
+	MARITAL_STATUS VARCHAR(10),
+	EDUCATION_LEVEL VARCHAR(30),
+	GEOGRAPHIC_INFORMATION VARCHAR(50),
+	OCCUPATION VARCHAR(20),
+	INCOME_LEVEL NUMBER(38,0),
+	BEHAVIORAL_DATA VARCHAR(10),
+	LAST_PURCHASE_DATE DATE,
+	INTERACTIONS_WITH_CUSTOMER_SERVICE VARCHAR(20),
+	INSURANCE_PRODUCTS_OWNED VARCHAR(10),
+	CUSTOMER_PREFERENCES VARCHAR(20),
+	PREFERRED_COMMUNICATION_CHANNEL VARCHAR(20),
+	PREFERRED_CONTACT_TIME VARCHAR(10),
+	PREFERRED_LANGUAGE VARCHAR(15),
+	SEGMENTATION_GROUP VARCHAR(10)
+) CLUSTER BY (SEGMENTATION_GROUP, INSURANCE_PRODUCTS_OWNED);
+
+
+create or replace TABLE PROD.DIM_DATE (
+	DATE_KEY NUMBER(38,0),
+	DATE DATE
+);
+
+create or replace TABLE PROD.DIM_GEOGRAPHY (
+	SUBDIVISION_ID VARCHAR(8),
+	SUBDIVISION_NAME VARCHAR(50),
+	COUNTRY VARCHAR(2)
+);
+
+create or replace TABLE PROD.DIM_INSURANCE_PRODUCTS (
+	INSURANCE_PRODUCT_ID VARCHAR(1),
+	INSURANCE_PRODUCT_NAME VARCHAR(10)
+);
+
+create or replace TABLE PROD.DIM_POLICY (
+	POLICY_ID VARCHAR(1),
+	POLICY_TYPE VARCHAR(10)
+);
+
+create or replace TABLE PROD.FACT_INSURANCE_TRANSACTIONS (
+	CUSTOMER_SK NUMBER(18,0),
+	GEOGRAPHIC_ID VARCHAR(50),
+	POLICY_ID VARCHAR(10),
+	PURCHASE_DATE NUMBER(38,0),
+	INSURANCE_PRODUCT VARCHAR(10),
+	COVERAGE_AMOUNT NUMBER(38,0),
+	PREMIUM_AMOUNT NUMBER(38,0)
+) CLUSTER BY (INSURANCE_PRODUCT);
